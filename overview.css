@@ -9,8 +9,8 @@
 
 .overview-header {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 40px;
-  font-weight: 600;
+  font-size: 45px;
+  font-weight: 700;
   text-align: center;
   margin-bottom: 30px;
 }
@@ -21,5 +21,38 @@
   line-height: 30px;
   padding-left: 270px;
   padding-right: 270px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+}
+
+.explore,
+.request-consultation {
+  text-decoration: none;
+}
+
+.explore {
+  background-color: #d4af37;
+  color: #1a1a4d;
+  padding: 14px 25px 14px 25px;
+  border-radius: 3px;
+  font-weight: 700;
+  margin-right: 20px;
+}
+
+.explore:hover {
+  background-color: #dfba41;
+}
+
+.request-consultation {
+  font-weight: 700;
+  color: white;
+  border: solid;
+  border-color: white;
+  border-width: 2px;
+  border-radius: 3px;
+  padding: 14px 25px 14px 25px;
+}
+
+.request-consultation:hover {
+  background-color: white;
+  color: #1a1a4d;
 }
