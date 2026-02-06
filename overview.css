@@ -1,0 +1,25 @@
+.overview {
+  height: 400px;
+  background-color: #1a1a4d;
+  color: white;
+  text-align: center;
+  padding-top: 80px;
+
+}
+
+.overview-header {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.overview-description {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  line-height: 30px;
+  padding-left: 270px;
+  padding-right: 270px;
+  margin-bottom: 30px;
+}
