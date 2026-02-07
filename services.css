@@ -1,0 +1,23 @@
+.services-description {
+  padding-top: 70px;
+}
+
+.our-services-header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+  color: #1a1a4d;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.our-services-overview {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: gray;
+  font-weight: 500;
+  padding-left: 250px;
+  padding-right: 250px;
+  margin-bottom: 50px;
+}
