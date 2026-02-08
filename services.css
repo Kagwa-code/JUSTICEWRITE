@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   padding-top: 70px;
-  background-color: rgb(246, 241, 241);
+  background-color: rgb(245, 245, 245);
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -30,7 +30,6 @@
 }
 
 .criminology-service {
-  height: 700px;
   background-color: white;
   border-radius: 10px;
   padding-top: 50px;
@@ -38,6 +37,8 @@
   border-left: solid;
   border-left-color: #8b0000;
   border-left-width: 5px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .criminology-header {
@@ -74,12 +75,18 @@
 
 .custom-list li {
   padding: 12px 0;
-  padding-left: 30px;
   color: #555;
   position: relative;
-  font-size: 1.05rem;
+  font-size: 18px;
 }
 
 .custom-list li::before {
   content: "⚖️";
+}
+
+.service-footer {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: #555;
+  line-height: 30px;
 }
