@@ -1,5 +1,8 @@
-.why-us-div {
-  
+.why-us {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .why-us-header {
@@ -21,10 +24,6 @@
 .why-us-div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
   row-gap: 20px;
   column-gap: 20px;
 }
