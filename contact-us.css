@@ -1,0 +1,67 @@
+.contact-us {
+  background-color: #8b0000;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.contact-us-header {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 35px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-us-description {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.contact-us-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.email-us {
+  background-color: #d4af37;
+  color: #1a1a4d;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 5px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.email-us:hover {
+  background-color: #edc953;
+}
+
+.call-us {
+  border: solid;
+  border-width: 2px;
+  border-color: white;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+.call-us:hover {
+  color: #1a1a4d;
+  background-color: white;
+}
